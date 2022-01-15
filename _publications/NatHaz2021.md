@@ -10,6 +10,6 @@ citation: 'Collalti, Dino and Strobl, Eric. (2021). &quot;Economic damages due t
 ---
 This study investigates economic damage risk due to extreme rainfall during tropical storms in Jamaica.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1007/s11069-021-05025-9)
 
-Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Collalti, Dino and Strobl, Eric. (2021). "Economic damages due to extreme precipitation during tropical storms: evidence from Jamaica." <i>Natural Hazards</i>. 1-28.
