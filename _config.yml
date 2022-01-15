@@ -173,6 +173,7 @@ kramdown:
   enable_coderay: false
 
 
+
 # Collections
 collections:
   teaching:
