@@ -38,23 +38,19 @@ I’m a third year PhD Candidate in Economics and Climate Science at the Univers
 
 # CV
 
-Personal
-======
+## Personal
 * Born on June 30, 1993.
 * Swiss Citizen.
 
-Education
-======
+## Education
 * B.Sc. Economics, University of Bern, 2013-2016.
 * M.Sc. Applied Economic Analysis, University of Bern, 2016-2019.
 * Ph.D. Economics & Climate Science, University of Bern, 2019-2023 (expected).
 
-Research Interests
-======
+## Research Interests
 Environmental & Climate Economics, Natural Hazards, Machine Learning
 
-Academic Services
-======
+## Academic Services
 * Editorial Service
     *  Referee forEnvironmental and Resource Economics (1).
 
