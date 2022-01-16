@@ -71,7 +71,7 @@ author:
   location         : 
   employer         : "University of Bern"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MYhj4r4AAAAJ"
   email            : "dino.collalti@vwi.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/Dino-Collalti"
   uri              :
@@ -81,13 +81,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/DinoCollalti"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/dino-collalti-91341a106/"
   orcid            : 
   pinterest        :
   soundcloud       :
