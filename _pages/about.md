@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third year PhD Candidate in Economics and Climate Science at the University of Bern. My main research interest is the economic quantification of extreme climate weather events. I employ methods from natural sciences and use remote sensing information to create original data for my economic modelling.
+I’m a third year PhD Candidate in Economics and Climate Science at the University of Bern. My main research interest is the economic quantification of extreme climate weather events. I employ methods from natural sciences and use remote sensing information to create original data for economic modelling.
 
 
 ## Publications
@@ -18,7 +18,7 @@ I’m a third year PhD Candidate in Economics and Climate Science at the Univers
   
 ## Work in Progress
 ### Flash-flood detection via copula-based IDF curves (with Eric Strobl) 2022
-* Extreme rainfall events frequently cause hazardous floods in many parts of the world. With an increase in rainfall extremes due to climate change and a growing human exposure to floods, the study of factors that trigger flood events is imperative. Flash-floods in particular, which are defined by their quick onset, require well defined models for the timely warning of the population at risk. We employ the copula method to model the dependence between intensity and duration of rainfall events in Jamaica separate and flexibly from their respective marginal distribution. This allows us to define the intensity-duration-frequency curve above which flash-floods become probable via the use of odds ratio. Flash-floods risk maps for the Caribbean 2000 - 2020 are then constructed
+* Extreme rainfall events frequently cause hazardous floods in many parts of the world. With an increase in rainfall extremes due to climate change and a growing human exposure to floods, the study of factors that trigger flood events is imperative. Flash-floods in particular require well defined models for the timely warning of the population at risk. We employ the copula method to model the dependence between intensity and duration of rainfall events in Jamaica separate and flexibly from their respective marginal distribution. This allows us to define via odds ratio the intensity-duration-frequency curve above which flash-floods are to be expected. Flash-floods risk maps for the Caribbean 2000 - 2020 are then constructed.
 
 
 ### [Predicting Swiss Healthcare Costs using Machine Learning (with Jonas Meier) 2021](https://github.com/DinoCollalti/DinoCollalti.github.io/blob/master/files/Collalti_Meier2021.pdf)
