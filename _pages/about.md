@@ -52,7 +52,7 @@ Environmental & Climate Economics, Natural Hazards, Machine Learning
 
 ## Academic Services
 * Editorial Service
-    *  Referee forEnvironmental and Resource Economics (1).
+    *  Referee for Environmental and Resource Economics (1).
 
 * Student Advisory for the Department of Economics 2019 - 2023 (expected).
 
@@ -61,4 +61,4 @@ Environmental & Climate Economics, Natural Hazards, Machine Learning
     * Ph.D. student delegate for faculty meetings, University of Bern, 2021 - 2023.
     * Member of Hiring Comittee for Tenure Track Professorship in Empirical Microeconomics, University of Bern, 2019.
     * Member of the quality evaluation commission for the "Master in Applied Economic Analysis", University of Bern, 2018 - 2019.
-    * Various participations as a B.Sc. and M.Sc. student such as member of the university's student council, student representative and member of the university's social commission, organizing member of the faculty's studen organization.
+    * Various participations as a B.Sc. and M.Sc. student such as member of the university's student council, student representative and member of the university's social commission, organizing member of the faculty's student organization.
