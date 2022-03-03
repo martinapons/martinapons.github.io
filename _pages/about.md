@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a second year PhD Candidate in Economics at the Department of Economics and the Center for Economic Development (CRED) at the University of Bern. My main research interests are in urban and regional economics and economic development.
+Hey there! I’m a second year PhD Candidate in Economics at the Department of Economics and the Center for Economic Development (CRED) at the University of Bern. My main research interests are in urban and regional economics and economic development.
 
 
 ## Work in Progress
@@ -35,11 +35,11 @@ We find that a same-chain store opening in the proximity of households' residenc
 * Introduction to Microeconomics, Winand Emons, Spring 2018
 
 ## Education
-* Ph.D. in Economics, University of Bern, 2020-2024 (expected).
-* Swiss Program for Beginning Doctoral Students in Economics, Study Center Gerzensee.
-* M.Sc. in International and Monetary Economics, University of Bern, 2018-2020.
-* Visiting Master Student, Toulouse School of Economics, 2020.
-* B.Sc. in Economics, University of Bern, 2015-2018.
+* Ph.D. in Economics, *University of Bern*, 2020-2024 (expected).
+  * Swiss Program for Beginning Doctoral Students in Economics, *Study Center Gerzensee*, 2020-2021.
+* M.Sc. in International and Monetary Economics, *University of Bern*, 2018-2020.
+  * Visiting Student, *Toulouse School of Economics*, 2020.
+* B.Sc. in Economics, *University of Bern*, 2015-2018.
 
 
 
