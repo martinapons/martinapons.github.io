@@ -12,7 +12,7 @@ Hey there! I’m a second year PhD Candidate in Economics at the Department of E
 
 
 ## Work in Progress
-### Spatial Frictions in Consumption and Retail Competition
+### Spatial Frictions in Consumption and Retail Competition (with Max von Ehrlich and Tobias Seidel)
 *draft and slides available upon request*
 
 In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi--experimental approach to estimate the causal effect of store openings. 
