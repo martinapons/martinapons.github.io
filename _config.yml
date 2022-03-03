@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dino Collalti"
+title                    : "Frederic Kluser"
 title_separator          : "-"
-name                     : &name "Dino Collalti"
+name                     : &name "Frederic Kluser"
 description              : &description "personal description"
-url                      : https://DinoCollalti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://frederickluser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -58,21 +58,21 @@ yandex_site_verification :
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Dino Collalti"
+  name             : "Frederic Kluser"
   avatar           : "foto_aktuell.jpg"
-  bio              : "PhD Candidate in Economics & Climate Science"
+  bio              : "PhD Candidate in Economics"
   location         : 
   employer         : "University of Bern"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MYhj4r4AAAAJ"
-  email            : "dino.collalti@vwi.unibe.ch"
+  googlescholar    : 
+  email            : "frederickluser@vwi.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/Dino-Collalti"
   uri              :
   bitbucket        :
@@ -81,20 +81,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/DinoCollalti"
+  github           : "https://github.com/frederickluser"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dino-collalti-91341a106/"
+  linkedin         : "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-kluser-68947a194/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/FredericKluser" 
   vine             :
   weibo            :
   xing             :
