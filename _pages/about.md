@@ -27,16 +27,18 @@ We find that a same-chain store opening in the proximity of households' residenc
      * *Brown Bag*, Department of Economics, University of Bern.
 
 ## Teaching Assistant
-* *Public Economics*, Spring 2021 & 2022
-* *Tax Policy*, Maximilian von Ehrlich, Fall 2020 & 2021
-* *Applied Econometrics with R*, Blaise Melly, Fall 2019
-* *Introduction to Macroeconomics*, Carlos Lenz, Spring 2018 & 2019
-* *Money, Credit and Banking*, Nils Herger, Fall 2018
-* *Introduction to Microeconomics*, Winand Emons, Spring 2018
+* Public Economics, Spring 2021 & 2022
+* Tax Policy, Maximilian von Ehrlich, Fall 2020 & 2021
+* Applied Econometrics with R, Blaise Melly, Fall 2019
+* Introduction to Macroeconomics, Carlos Lenz, Spring 2018 & 2019
+* Money, Credit and Banking, Nils Herger, Fall 2018
+* Introduction to Microeconomics, Winand Emons, Spring 2018
 
 ## Education
 * Ph.D. in Economics, University of Bern, 2020-2024 (expected).
+* Swiss Program for Beginning Doctoral Students in Economics, Study Center Gerzensee.
 * M.Sc. in International and Monetary Economics, University of Bern, 2018-2020.
+* Visiting Master Student, Toulouse School of Economics, 2020.
 * B.Sc. in Economics, University of Bern, 2015-2018.
 
 
