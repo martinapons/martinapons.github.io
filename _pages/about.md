@@ -18,18 +18,18 @@ I’m a second year PhD Candidate in Economics at the Department of Economics an
 
 ## Conference Presentations
 * 2022
-     * European Meeting of the Urban Economics Association, London School of Economics
-     * Workshop of the Swiss Network on Public Economics, KOF Swiss Economic Institute, ETH Zurich 
-	 * CRED Seminar, Center for Regional Economic Development, University of Bern. 
-     * Brown Bag, Department of Economics, University of Bern.
+     * *European Meeting of the Urban Economics Association*, London School of Economics
+     * *Workshop of the Swiss Network on Public Economics*, KOF Swiss Economic Institute, ETH Zurich 
+	 * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
+     * *Brown Bag*, Department of Economics, University of Bern.
 
 ## Teaching Assistant
-* Public Economics, Spring 2021 & 2022
-* Tax Policy, Maximilian von Ehrlich, Fall 2020 & 2021
-* Applied Econometrics with R, Blaise Melly, Fall 2019
-* Introduction to Macroeconomics, Carlos Lenz, Spring 2018 & 2019
-* Money, Credit and Banking, Nils Herger, Fall 2018
-* Introduction to Microeconomics, Winand Emons, Spring 2018
+* *Public Economics*, Spring 2021 & 2022
+* *Tax Policy*, Maximilian von Ehrlich, Fall 2020 & 2021
+* *Applied Econometrics with R*, Blaise Melly, Fall 2019
+* *Introduction to Macroeconomics*, Carlos Lenz, Spring 2018 & 2019
+* *Money, Credit and Banking*, Nils Herger, Fall 2018
+* *Introduction to Microeconomics*, Winand Emons, Spring 2018
 
 ## Education
 * Ph.D. in Economics, University of Bern, 2020-2024 (expected).
