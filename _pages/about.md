@@ -8,57 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third year PhD Candidate in Economics and Climate Science at the University of Bern. My main research interest is the economic quantification of extreme climate weather events. I employ methods from natural sciences and use remote sensing information to create original data for economic modelling.
+I’m a second year PhD Candidate in Economics at the Department of Economics and the Center for Economic Development (CRED) at the University of Bern. My main research interests are in urban and regional economics and economic development.
 
 
-## Publications
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 ## Work in Progress
-### Flash-flood detection via copula-based IDF curves (with Eric Strobl) 2022
-* Extreme rainfall events frequently cause hazardous floods in many parts of the world. With an increase in rainfall extremes due to climate change and a growing human exposure to floods, the study of factors that trigger flood events is imperative. Flash-floods in particular require well defined models for the timely warning of the population at risk. We employ the copula method to model the dependence between intensity and duration of rainfall events in Jamaica separate and flexibly from their respective marginal distribution. This allows us to define via odds ratio the intensity-duration-frequency curve above which flash-floods are to be expected. Flash-floods risk maps for the Caribbean 2000 - 2020 are then constructed.
-
-
-### [Predicting Swiss Healthcare Costs using Machine Learning (with Jonas Meier) 2021](https://github.com/DinoCollalti/DinoCollalti.github.io/blob/master/files/Collalti_Meier2021.pdf)
-* Healthcare costs account for a substantial and steadily growing share of GDP. However, predicting the growth of healthcare costs amounts to be a diffcult task due to complex time trends and dependencies on economic measures such as wages and spatial differences. Using physician data, this paper takes a machine learning approach towards predicting aggregate healthcare expenditures.
-
+### Spatial Frictions in Consumption and Retail Competition
+* In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi--experimental approach to estimate the causal effect of store openings. We find that a same-chain store opening in the proximity of households' residences reduces their expenditures at incumbent stores by 10% in the first month. Smaller effects for competitors suggest imperfect substitutability between retail chains. Exploiting more than 350 openings, we identify precise consumption gravity functions which allow us to quantify spatial consumption areas. We document significant heterogeneities across regions and socio-demographic groups, indicating substantial inequalities in consumption access.
 
 
 ## Conference Presentations
-* 2021
-	 * Interdisciplinary Ph.D. Workshop in Sustainable Development at Columbia University (IPWSD).
-	 * Workshop  on  Compound  Weather  and  Climate  Events  (Bern/Online,  Oeschger  Center  for  Climate Change Research).
+* 2022
+     * European Meeting of the Urban Economics Association, London School of Economics
+     * Workshop of the Swiss Network on Public Economics, KOF Swiss Economic Institute, ETH Zurich 
+	 * CRED Seminar, Center for Regional Economic Development, University of Bern. 
+     * Brown Bag, Department of Economics, University of Bern.
 
-* 2020
-	 * Annual Conference of the European Association of Environmental and Resource Economists (Berlin, EAERE).
-	 * Brown Bag, Department of Economics, University of Bern (2).
-
-
-# CV
-
-## Personal
-* Born on June 30, 1993.
-* Swiss Citizen.
+## Teaching Assistant
+* Public Economics, Spring 2021 & 2022
+* Tax Policy, Maximilian von Ehrlich, Fall 2020 & 2021
+* Applied Econometrics with R, Blaise Melly, Fall 2019
+* Introduction to Macroeconomics, Carlos Lenz, Spring 2018 & 2019
+* Money, Credit and Banking, Nils Herger, Fall 2018
+* Introduction to Microeconomics, Winand Emons, Spring 2018
 
 ## Education
-* B.Sc. Economics, University of Bern, 2013-2016.
-* M.Sc. Applied Economic Analysis, University of Bern, 2016-2019.
-* Ph.D. Economics & Climate Science, University of Bern, 2019-2023 (expected).
+* Ph.D. in Economics, University of Bern, 2020-2024 (expected).
+* M.Sc. in International and Monetary Economics, University of Bern, 2018-2020.
+* B.Sc. in Economics, University of Bern, 2015-2018.
 
-## Research Interests
-Environmental & Climate Economics, Natural Hazards, Machine Learning
 
-## Academic Services
-* Editorial Service
-    *  Referee for Environmental and Resource Economics (1).
 
-* Student Advisory for the Department of Economics 2019 - 2023 (expected).
-
-* Comittee and Delegation
-    * Member of the quality evaluation commission for the Bachelor Minor in Economics Programms, University of Bern, 2022 - 2023 (expected).
-    * Ph.D. student delegate for faculty meetings, University of Bern, 2021 - 2023.
-    * Member of Hiring Comittee for Tenure Track Professorship in Empirical Microeconomics, University of Bern, 2019.
-    * Member of the quality evaluation commission for the "Master in Applied Economic Analysis", University of Bern, 2018 - 2019.
-    * Various participations as a B.Sc. and M.Sc. student such as member of the university's student council, student representative and member of the university's social commission, organizing member of the faculty's student organization.
