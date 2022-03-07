@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a second year PhD Candidate in Economics at the Department of Economics and the Center for Economic Development (CRED) at the University of Bern. My main research interests are in urban and regional economics and economic development.
+Hey there! I’m a second year PhD Candidate in Economics at the Department of Economics and the Center for Economic Development (CRED) at the University of Bern. My main research interests are in urban and regional economics with a focus on nutrition.
 
 
 ## Work in Progress
 ### Spatial Frictions in Consumption and Retail Competition (with Max von Ehrlich and Tobias Seidel)
-*draft and slides available upon request*
+*Draft and slides available upon request*
 
 In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi--experimental approach to estimate the causal effect of store openings. 
 
@@ -24,7 +24,7 @@ We find that a same-chain store opening in the proximity of households' residenc
 * 2022
      * *European Meeting of the Urban Economics Association*, London School of Economics.
      * *Workshop of the Swiss Network on Public Economics*, KOF Swiss Economic Institute, ETH Zurich. 
-	 * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
+     * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
      * *Brown Bag*, Department of Economics, University of Bern.
 
 ## Teaching Assistant
