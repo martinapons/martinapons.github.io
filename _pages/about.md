@@ -20,7 +20,7 @@ In this paper, we empirically quantify spatial consumption frictions and the deg
 We find that a same-chain store opening in the proximity of households' residences reduces their expenditures at incumbent stores by 10% in the first month. Smaller effects for competitors suggest imperfect substitutability between retail chains. Exploiting more than 350 openings, we identify precise consumption gravity functions which allow us to quantify spatial consumption areas. We document significant heterogeneities across regions and socio-demographic groups, indicating substantial inequalities in consumption access.
 
 
-## Conference Presentations
+## Conferences and Presentations
 * 2022
      * *European Meeting of the Urban Economics Association*, London School of Economics.
      * *Workshop of the Swiss Network on Public Economics*, KOF Swiss Economic Institute, ETH Zurich. 
