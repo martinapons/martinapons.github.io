@@ -8,39 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a second year PhD Candidate in Economics at the Department of Economics and the Center for Regional Economic Development (CRED) at the University of Bern. My main research interests are in urban and regional economics with a focus on nutrition.
+Hey there! I’m a second year PhD Candidate in Economics at the University of Bern. My  research interests are in econometrics.
 
 
 ## Work in Progress
-### Spatial Frictions in Consumption and Retail Competition (with Max von Ehrlich and Tobias Seidel)
-*Draft and slides available upon request*
+### Minimum Distance Estimation of Quantile Panel Data Models (with Blaise Melly)
 
-In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi--experimental approach to estimate the causal effect of store openings. 
-
-We find that a same-chain store opening in the proximity of households' residences reduces their expenditures at incumbent stores by 10% in the first month. Smaller effects for competitors suggest imperfect substitutability between retail chains. Exploiting more than 350 openings, we identify precise consumption gravity functions which allow us to quantify spatial consumption areas. We document significant heterogeneities across regions and socio-demographic groups, indicating substantial inequalities in consumption access.
-
+## Publications
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Conferences and Presentations
 * 2022
-     * *European Meeting of the Urban Economics Association*, London School of Economics.
-     * *Workshop of the Swiss Network on Public Economics*, KOF Swiss Economic Institute, ETH Zurich. 
-     * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
-     * *Brown Bag*, Department of Economics, University of Bern.
+     * *Brown Bag*, Department of Economics, University of Geneva.
+* 2020
+    * *Brown Bag*, Department of Economics, University of Bern.
+
+     
 
 ## Teaching Assistant
-* Public Economics, Spring 2021 & 2022
-* Tax Policy, Maximilian von Ehrlich, Fall 2020 & 2021
-* Applied Econometrics with R, Blaise Melly, Fall 2019
-* Introduction to Macroeconomics, Carlos Lenz, Spring 2018 & 2019
-* Money, Credit and Banking, Nils Herger, Fall 2018
-* Introduction to Microeconomics, Winand Emons, Spring 2018
+* Econometrics II (Master), Fall 2020 & 2021 
+* Time Series Analysis II (Master), Fall 2021 
+* Econometrics I (Bachelor), Spring 2020
+* Essential Mathematics for Economists (Bachelor), Spring 2019
 
 ## Education
 * Ph.D. in Economics, *University of Bern*, 2020-2024 (expected).
   * Swiss Program for Beginning Doctoral Students in Economics, *Study Center Gerzensee*, 2020-2021.
-* M.Sc. in International and Monetary Economics, *University of Bern*, 2018-2020.
-  * Visiting Student, *Toulouse School of Economics*, 2020.
-* B.Sc. in Economics, *University of Bern*, 2015-2018.
+* M.Sc. in Economics, *University of Bern*, 2018-2020.
+  * Visiting Student, *University of Copenhagen*, 2019.
+* B.Sc. in Economics, *University of Bern*, 2016-2018.
+* B.Sc. in Tourism, *HTW Chur, University of Applied Sciences*, 2013-2016.
+
 
 
 
