@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Frederic Kluser"
+title                    : "Martina Pons"
 title_separator          : "-"
-name                     : &name "Frederic Kluser"
+name                     : &name "Martina Pons"
 description              : &description "personal description"
-url                      : https://frederickluser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://martinapons.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -65,14 +65,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Frederic Kluser"
-  avatar           : "IMG_5630.jpeg"
+  name             : "Martina Pons"
+  avatar           : "photo.jpeg"
   bio              : "PhD Candidate in Economics"
   location         : 
   employer         : "University of Bern"
   pubmed           : 
   googlescholar    : 
-  email            : "frederickluser@vwi.unibe.ch"
+  email            : "martina.pons@vwi.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/Dino-Collalti"
   uri              :
   bitbucket        :
@@ -81,20 +81,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "frederickluser"
+  github           : "martinapons"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "fr%C3%A9d%C3%A9ric-kluser-68947a194/"
+  linkedin         : "martina-pons-ab37a3195/" 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "FredericKluser" 
+  twitter          : "MartinaPons6" 
   vine             :
   weibo            :
   xing             :
