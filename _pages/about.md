@@ -12,7 +12,7 @@ Hey there! I’m a second year PhD Candidate in Economics at the University of B
 
 
 ## Work in Progress
-### * Minimum Distance Estimation of Quantile Panel Data Models (with Blaise Melly)
+### Minimum Distance Estimation of Quantile Panel Data Models (with Blaise Melly)
 
 ## Publications
 <ul>{% for post in site.publications %}
