@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a second year PhD Candidate in Economics at the University of Bern. My  research interests are in econometrics.
+Hey there! I’m a second year PhD Candidate in Economics at the University of Bern. My research interests are in panel data econometrics.
 
 
 ## Work in Progress
