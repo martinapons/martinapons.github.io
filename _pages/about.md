@@ -13,6 +13,7 @@ Hey there! I’m a second year PhD Candidate in Economics at the University of B
 
 ## Work in Progress
 ### Minimum Distance Estimation of Quantile Panel Data Models (with Blaise Melly)
+Paper coming soon.
 
 ## Publications
 <ul>{% for post in site.publications %}
@@ -21,6 +22,8 @@ Hey there! I’m a second year PhD Candidate in Economics at the University of B
 
 ## Conferences and Presentations
 * 2022
+     * The 27th International Panel Data Conference, Bertinoro, Italy
+     * COMPIE Conference (COunterfactual Methods for Policy Impact Evaluation), Mannheim, Germany
      * *Brown Bag*, Department of Economics, University of Geneva.
 * 2020
     * *Brown Bag*, Department of Economics, University of Bern.
