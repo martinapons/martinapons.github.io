@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a second year PhD Candidate in Economics at the University of Bern. My research interests are in panel data econometrics.
+Hey there! I’m a third year PhD Candidate in Economics at the University of Bern. My research interests are in panel data econometrics.
 
 
 ## Work in Progress
@@ -23,17 +23,18 @@ Hey there! I’m a second year PhD Candidate in Economics at the University of B
 
 ## Conferences and Presentations
 * 2022
+     * 2nd International Econometrics PhD Conference, Erasmus University Rotterdam, Netherlands
      * The 27th International Panel Data Conference, Bertinoro, Italy
      * COMPIE Conference (COunterfactual Methods for Policy Impact Evaluation), Mannheim, Germany
-     * *Brown Bag*, Department of Economics, University of Geneva.
+     * *Brown Bag*, Department of Economics, University of Geneva and University of Bern.
 * 2020
     * *Brown Bag*, Department of Economics, University of Bern.
 
      
 
 ## Teaching Assistant
-* Econometrics II (Master), Fall 2020 & 2021 
-* Time Series Analysis II (Master), Fall 2021 
+* Econometrics II (Master), Fall 2020, 2021 & 2022
+* Time Series Analysis II (Master), Fall 2021 & 2022
 * Econometrics I (Bachelor), Spring 2020
 * Essential Mathematics for Economists (Bachelor), Spring 2019
 
