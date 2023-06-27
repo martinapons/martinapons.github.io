@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a third year PhD Candidate in Economics at the University of Bern. My research interests are in panel data econometrics.
+Hey there! I’m a third-year Ph.D. Candidate in Economics at the University of Bern. My research interests are in quantile methods and panel data econometrics.
 
 
 ## Work in Progress
 ### <a href="/files/MD.pdf" download>Minimum Distance Estimation of Quantile Panel Data Models</a> (with Blaise Melly)
-
+### Quantile on Quantiles
+### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits (with Frederic Kluser)
 
 
 ## Publications
@@ -22,6 +23,9 @@ Hey there! I’m a third year PhD Candidate in Economics at the University of Be
   {% endfor %}</ul>
 
 ## Conferences and Presentations
+* 2023
+     * IAAE 2023, BI Norwegian Business School, Oslo, Norway
+     * Young Swiss Economists of the Swiss Society of Economics and Statistics, ETH Zurich
 * 2022
      * 2nd International Econometrics PhD Conference, Erasmus University Rotterdam, Netherlands
      * The 27th International Panel Data Conference, Bertinoro, Italy
@@ -39,7 +43,7 @@ Hey there! I’m a third year PhD Candidate in Economics at the University of Be
 * Essential Mathematics for Economists (Bachelor), Spring 2019
 
 ## Education
-* Ph.D. in Economics, *University of Bern*, 2020-2024 (expected).
+* Ph.D. in Economics, *University of Bern*, 2020-present.
   * Swiss Program for Beginning Doctoral Students in Economics, *Study Center Gerzensee*, 2020-2021.
 * M.Sc. in Economics, *University of Bern*, 2018-2020.
   * Visiting Student, *University of Copenhagen*, 2019.
