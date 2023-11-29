@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a third-year Ph.D. Candidate in Economics at the University of Bern. My research interests are in quantile methods and panel data econometrics.
+Hey there! I’m a fourth-year Ph.D. Candidate in Economics at the University of Bern. I am visiting the MIT economics department during the 2023-2024 academic year. My research interests are in quantile methods and panel data econometrics.
 
 
 ## Work in Progress
