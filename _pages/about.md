@@ -12,14 +12,14 @@ Hey there! I’m a fourth-year Ph.D. Candidate in Economics at the University of
 
 
 ## Working Papers
-### Minimum Distance Estimation of Quantile Panel Data Models <small>[ <a href="/files/MD.pdf" download>Download</a> ]</small>
+### Minimum Distance Estimation of Quantile Panel Data Models <small>[ <a href="/files/MD.pdf" download>Download</a>]</small>
 <small>with <a href="https://sites.google.com/site/blaisemelly/">Blaise Melly</a></small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 We propose a minimum distance estimation approach to quantile panel data models where the unit effects may be correlated with the covariates. The estimation method is computationally straightforward to implement and fast. We first compute a quantile regression within each unit and then apply GMM to the fitted values from the first stage. The suggested estimators apply (i) to grouped data, where we observe data at the individual level, but the treatment varies at the group level, and (ii) to classical panel data, where we follow the same units over time. Depending on the variables assumed to be exogenous, this approach provides quantile analogs of the classical least squares panel data estimators such as the fixed effects, random effects, between, and Hausman-Taylor estimators. We provide a more precise estimator for grouped (instrumental) quantile regression than the existing ones. We establish the asymptotic properties of our estimator when the number of units and observations per unit jointly diverge to infinity. We suggest an inference procedure that automatically adapts to the (potentially) unknown rate of convergence of the estimators. Monte Carlo simulations show that our estimator and inference procedure also perform well in finite samples when the number of observations per unit is small. In an empirical application, we find that the introduction of the food stamp program increased the birth weights only at the bottom of the distribution.
 </small><br><br/>
 </div>
 
-### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ]</small>
+### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a>]</small>
 <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a></small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating habits remain poorly understood. We provide novel evidence of the strong intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. We find that children with parents spending one percentage point more on fruits and vegetables also spend 0.23 percentage points more on fresh produce.
@@ -28,7 +28,7 @@ Counterfactual analyses show that only 12$\%$ of the intergenerational persisten
 </small><br><br/>
 </div>
 
-### Quantile on Quantiles <small>[ Coming soon ]</small>
+### Quantile on Quantiles <small>[ Coming Soon ]</small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Distributional effects provide interesting insight into how a given treatment impacts inequality.
 This paper extends this notion in two ways. First, it recognizes that inequality spans multiple dimensions, for example, within and between groups, with treatments potentially influencing both. Second, the paper addresses the nontrivial challenge of ranking heterogeneous groups, which heavily depends on the social welfare function of the policymaker. 
