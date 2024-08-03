@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a fifth-year Ph.D. Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a>. I am visiting the MIT economics department during the 2023-2024 academic year. My research interests are in quantile methods and panel data econometrics.  <a href="https://martinapons.github.io/files/CV_Martina_Pons.pdf" download>You can download my CV here</a>.
+Hey there! I’m a fifth-year Ph.D. Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> of the University of Bern. I am visiting the MIT economics department during the 2023-2024 academic year. My research interests are in quantile methods and panel data econometrics.  <a href="https://martinapons.github.io/files/CV_Martina_Pons.pdf" download>You can download my CV here</a>.
 
 
 ## Working Papers
