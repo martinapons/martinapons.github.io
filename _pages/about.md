@@ -39,7 +39,7 @@ I show that the estimator is consistent and asymptotically normal when both the 
 </div>
 
 <iframe src="../files/income_3d.html" width="100%" height="600px" frameborder="0"></iframe>
-
+**Footnote:** The Figure shows the effect of the business training on the within market and the between market distributions of income from work (see paper for details).
 
 ## Publications
 <ul>{% for post in site.publications %}
