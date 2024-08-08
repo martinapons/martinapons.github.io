@@ -38,6 +38,7 @@ I show that the estimator is consistent and asymptotically normal when both the 
 </small><br><br/>
 </div>
 
+<iframe src="../files/income_3d.html" width="100%" height="600px" frameborder="0"></iframe>
 
 
 ## Publications
