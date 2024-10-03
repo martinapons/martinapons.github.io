@@ -28,7 +28,7 @@ Counterfactual analyses show that only 12% of the intergenerational persistence 
 </small><br><br/>
 </div>
 
-### Quantile on Quantiles <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small> 
+### Quantile on Quantiles <small>[Job Market Paper </a>]</small> <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small> (_Winner of International Association for Applied Econometrics 2024 conference best student paper prize_)
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Distributional effects provide interesting insight into how a given treatment impacts inequality.
 This paper extends this notion in two ways. First, it recognizes that inequality spans multiple dimensions, for example, within and between groups, with treatments potentially influencing both. Second, the paper addresses the nontrivial challenge of ranking heterogeneous groups, which heavily depends on the social welfare function of the policymaker. 
