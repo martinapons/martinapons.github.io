@@ -12,6 +12,18 @@ Hey there! I’m a fifth-year Ph.D. Candidate in Economics at the <a href="https
 
 
 ## Working Papers
+
+### Quantile on Quantiles <small>[Job Market Paper]</small> <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small>
+(_Winner of International Association for Applied Econometrics 2024 conference best student paper prize_)
+<div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+Distributional effects provide interesting insight into how a given treatment impacts inequality.
+This paper extends this notion in two ways. First, it recognizes that inequality spans multiple dimensions, for example, within and between groups, with treatments potentially influencing both. Second, the paper addresses the nontrivial challenge of ranking heterogeneous groups, which heavily depends on the social welfare function of the policymaker. 
+To this end, I introduce a model to simultaneously study distributional effects within and between groups while remaining agnostic about this social welfare function. The model consists of a quantile function with two indices, the first capturing heterogeneity within groups and the second addressing the between-group dimension. As a byproduct, the method proves valuable for descriptive analyses of inequalities within and between groups. 
+I propose a two-step quantile regression estimator involving within-group regressions in the first stage and between-group regressions in the second stage. 
+I show that the estimator is consistent and asymptotically normal when both the number of observations per group and the number of groups diverge to infinity. In an empirical application, I study the effect of training on the distribution of firms' performance within and between markets in Kenya. The results show large positive effects among the successful firms in the best-performing markets, suggesting potential complementarities between firms and market performance.
+</small><br><br/>
+</div>
+
 ### Minimum Distance Estimation of Quantile Panel Data Models <small>[<a href="/files/MD.pdf" download>Download</a>]</small>  <small>[<a href="https://github.com/martinapons/mdqr" >R Package</a>]</small>  <small>[<a href="https://github.com/bmelly/Stata" download>Stata Package</a>]</small>  
 <small>with <a href="https://sites.google.com/site/blaisemelly/">Blaise Melly</a></small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
@@ -28,19 +40,9 @@ Counterfactual analyses show that only 12% of the intergenerational persistence 
 </small><br><br/>
 </div>
 
-### Quantile on Quantiles <small>[Job Market Paper]</small> <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small>
-(_Winner of International Association for Applied Econometrics 2024 conference best student paper prize_)
-<div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
-Distributional effects provide interesting insight into how a given treatment impacts inequality.
-This paper extends this notion in two ways. First, it recognizes that inequality spans multiple dimensions, for example, within and between groups, with treatments potentially influencing both. Second, the paper addresses the nontrivial challenge of ranking heterogeneous groups, which heavily depends on the social welfare function of the policymaker. 
-To this end, I introduce a model to simultaneously study distributional effects within and between groups while remaining agnostic about this social welfare function. The model consists of a quantile function with two indices, the first capturing heterogeneity within groups and the second addressing the between-group dimension. As a byproduct, the method proves valuable for descriptive analyses of inequalities within and between groups. 
-I propose a two-step quantile regression estimator involving within-group regressions in the first stage and between-group regressions in the second stage. 
-I show that the estimator is consistent and asymptotically normal when both the number of observations per group and the number of groups diverge to infinity. In an empirical application, I study the effect of training on the distribution of firms' performance within and between markets in Kenya. The results show large positive effects among the successful firms in the best-performing markets, suggesting potential complementarities between firms and market performance.
-</small><br><br/>
-</div>
 
 <iframe src="../files/income_3d.html" width="100%" height="600px" frameborder="0"></iframe>
-**Footnote:** The Figure shows the effect of the business training on the within market and the between market distributions of income from work (see paper for details).
+**Footnote:** The Figure shows the effect of the business training on the within market and the between market distributions of income from work estimated using the method suggested in the paper _Quantiles on Quantile_ (see paper for details).
 
 ## Publications
 <ul>{% for post in site.publications %}
