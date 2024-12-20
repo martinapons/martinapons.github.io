@@ -31,8 +31,8 @@ We propose a minimum distance estimation approach for quantile panel data models
 </div>
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small>[<a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a>]</small>
-<small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a></small>
-(Revise \& Resubmit at _The Review of Economics and Statistics_)
+<small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a (Revise & Resubmit at _The Review of Economics and Statistics_)></small>
+
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small> 
 Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. We document a strong intergenerational persistence of diet that exceeds income transmission across all measures we consider. At the same time, substantial heterogeneities in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss potential mechanisms and show in a counterfactual analysis that only 10\% of the intergenerational persistence in diet can be explained by the transmission of income and education. In line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
 </small><br><br/>
