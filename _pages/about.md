@@ -28,7 +28,9 @@ I show that the estimator is consistent and asymptotically normal when the numbe
 
 
 ### Minimum Distance Estimation of Quantile Panel Data Models 
-<p style="margin: 0;"><small>with <a href="https://sites.google.com/site/blaisemelly/">Blaise Melly</a></small></p>
+<div style="margin-bottom: 5px;">
+<small>with <a href="https://sites.google.com/site/blaisemelly/">Blaise Melly</a></small>
+</div>  
 <div style="margin-bottom: 5px;">
   <small>
     [<a href="#/" onclick="visib('md')">Abstract</a>] 
