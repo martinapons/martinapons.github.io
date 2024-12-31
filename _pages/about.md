@@ -16,7 +16,7 @@ Hey there! I’m a fifth-year Ph.D. Candidate in Economics at the <a href="https
 ### Quantile on Quantiles <small>[Job Market Paper]</small> <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small>
 (_Winner of International Association for Applied Econometrics 2024 conference best student paper prize_)
 
-<div style="height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+<div style="margin-bottom: 3px; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Distributional effects provide interesting insight into how a given treatment impacts inequality. This paper extends this notion in two ways. First, it recognizes that inequality spans multiple dimensions, for example, within and between groups, with treatments potentially influencing and creating trade-offs between both. Second, the paper addresses the nontrivial challenge of ranking heterogeneous groups, which heavily depends on the social welfare function of the policymaker. 
 To this end, I introduce a model to simultaneously study distributional effects within and between groups while remaining agnostic about this social welfare function. The model consists of a quantile function with two indices, the first capturing heterogeneity within groups and the second addressing the between-group dimension. 
 I propose a two-step quantile regression estimator involving within-group regressions in the first stage and between-group regressions in the second stage. 
@@ -42,10 +42,12 @@ We propose a minimum distance estimation approach for quantile panel data models
 </div>
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits 
-<small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> (Revise & Resubmit at _The Review of Economics and Statistics_)</small>
-
+<div style="margin-bottom: 3px">
+  <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> (Revise & Resubmit at _The Review of Economics and Statistics_)</small>
+</div>
+<div style="margin-bottom: 3px">
 <small>[<a href="#/" onclick="visib('diet')">Abstract</a>] [<a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a>]</small>
-
+</div>
 <div id="diet" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. We document a strong intergenerational persistence of diet that exceeds income transmission across all measures we consider. At the same time, substantial heterogeneities in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss potential mechanisms and show in a counterfactual analysis that only 10\% of the intergenerational persistence in diet can be explained by the transmission of income and education. In line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
 </small><br><br/>
