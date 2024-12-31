@@ -16,19 +16,19 @@ Hey there! I’m a fifth-year Ph.D. Candidate in Economics at the <a href="https
 ### Quantile on Quantiles <small>[Job Market Paper]</small> <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small>
 (_Winner of International Association for Applied Econometrics 2024 conference best student paper prize_)
 
+<div id="md" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Distributional effects provide interesting insight into how a given treatment impacts inequality. This paper extends this notion in two ways. First, it recognizes that inequality spans multiple dimensions, for example, within and between groups, with treatments potentially influencing and creating trade-offs between both. Second, the paper addresses the nontrivial challenge of ranking heterogeneous groups, which heavily depends on the social welfare function of the policymaker. 
 To this end, I introduce a model to simultaneously study distributional effects within and between groups while remaining agnostic about this social welfare function. The model consists of a quantile function with two indices, the first capturing heterogeneity within groups and the second addressing the between-group dimension. 
 I propose a two-step quantile regression estimator involving within-group regressions in the first stage and between-group regressions in the second stage. 
 I show that the estimator is consistent and asymptotically normal when the number of observations per group and the number of groups diverge to infinity. In an empirical application, I study the effect of training on the distribution of firms' performance within and between markets in Kenya. The results show large positive effects among the successful firms in the best-performing markets, suggesting potential complementarities between firms and market performance.
-</small><br><br/>
-
+</small></div>
 
 
 ### Minimum Distance Estimation of Quantile Panel Data Models
-<div style="margin-bottom: 5px">
+<div style="margin-bottom: 3px">
 <small>with <a href="https://sites.google.com/site/blaisemelly/">Blaise Melly</a></small>
 </div>  
-<div style="margin-bottom: 5px">
+<div style="margin-bottom: 3px">
   <small>
     [<a href="#/" onclick="visib('md')">Abstract</a>] 
     [<a href="/files/MD.pdf" download>Download</a>]
@@ -38,11 +38,12 @@ I show that the estimator is consistent and asymptotically normal when the numbe
 </div>
 <div id="md" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 We propose a minimum distance estimation approach for quantile panel data models where unit effects may be correlated with covariates. This computationally efficient method involves two stages: first, computing quantile regression within each unit, then applying GMM to the first-stage fitted values. Our estimators are applicable to (i) classical panel data, tracking units over time, and (ii) grouped data, where individual-level data are available, but treatment varies at the group level. Depending on the exogeneity assumptions, this approach provides quantile analogs of classic panel data estimators, including fixed effects, random effects, between, and Hausman-Taylor estimators. In addition, our method offers improved precision for grouped (instrumental) quantile regression compared to existing estimators. We establish asymptotic properties as both the number of units and observations per unit jointly diverge to infinity. Additionally, we introduce an inference procedure that automatically adapts to potentially unknown convergence rates of the estimators. Monte Carlo simulations demonstrate that our estimator and inference procedure perform well in finite samples, even when the number of observations per unit is moderate. In an empirical application, we examine the impact of the food stamp program on birth weights. Our findings reveal that the program's introduction increased birth weights predominantly at the lower end of the distribution, demonstrating our method's ability to capture heterogeneous effects across the outcome distribution.
-</small><br><br/>
+</small>
 </div>
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits 
 <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> (Revise & Resubmit at _The Review of Economics and Statistics_)</small>
+
 <small>[<a href="#/" onclick="visib('diet')">Abstract</a>] [<a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a>]</small>
 
 <div id="diet" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
