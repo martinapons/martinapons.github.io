@@ -27,7 +27,6 @@ I show that the estimator is consistent and asymptotically normal when the numbe
 
 ### Minimum Distance Estimation of Quantile Panel Data Models 
 <small>with <a href="https://sites.google.com/site/blaisemelly/">Blaise Melly</a></small>
-
 <small>[<a href="#/" onclick="visib('md')">Abstract</a>] [<a href="/files/MD.pdf" download>Download</a>]</small> <small>[<a href="https://github.com/martinapons/mdqr" >R Package</a>]</small>  <small>[<a href="https://github.com/bmelly/Stata" download>Stata Package</a>]</small>  
 <div id="md" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 We propose a minimum distance estimation approach for quantile panel data models where unit effects may be correlated with covariates. This computationally efficient method involves two stages: first, computing quantile regression within each unit, then applying GMM to the first-stage fitted values. Our estimators are applicable to (i) classical panel data, tracking units over time, and (ii) grouped data, where individual-level data are available, but treatment varies at the group level. Depending on the exogeneity assumptions, this approach provides quantile analogs of classic panel data estimators, including fixed effects, random effects, between, and Hausman-Taylor estimators. In addition, our method offers improved precision for grouped (instrumental) quantile regression compared to existing estimators. We establish asymptotic properties as both the number of units and observations per unit jointly diverge to infinity. Additionally, we introduce an inference procedure that automatically adapts to potentially unknown convergence rates of the estimators. Monte Carlo simulations demonstrate that our estimator and inference procedure perform well in finite samples, even when the number of observations per unit is moderate. In an empirical application, we examine the impact of the food stamp program on birth weights. Our findings reveal that the program's introduction increased birth weights predominantly at the lower end of the distribution, demonstrating our method's ability to capture heterogeneous effects across the outcome distribution.
@@ -36,7 +35,6 @@ We propose a minimum distance estimation approach for quantile panel data models
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits 
 <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> (Revise & Resubmit at _The Review of Economics and Statistics_)</small>
-
 <small>[<a href="#/" onclick="visib('diet')">Abstract</a>] [<a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a>]</small>
 
 <div id="diet" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
