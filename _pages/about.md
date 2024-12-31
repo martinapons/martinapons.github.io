@@ -14,8 +14,9 @@ Hey there! I’m a fifth-year Ph.D. Candidate in Economics at the <a href="https
 ## Working Papers
 
 ### Quantile on Quantiles <small>[Job Market Paper]</small> <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small>
+<div style="margin-bottom: 3px" ><small>
 (_Winner of International Association for Applied Econometrics 2024 conference best student paper prize_)
-
+</div>
 <div style="margin-bottom: 3px; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Distributional effects provide interesting insight into how a given treatment impacts inequality. This paper extends this notion in two ways. First, it recognizes that inequality spans multiple dimensions, for example, within and between groups, with treatments potentially influencing and creating trade-offs between both. Second, the paper addresses the nontrivial challenge of ranking heterogeneous groups, which heavily depends on the social welfare function of the policymaker. 
 To this end, I introduce a model to simultaneously study distributional effects within and between groups while remaining agnostic about this social welfare function. The model consists of a quantile function with two indices, the first capturing heterogeneity within groups and the second addressing the between-group dimension. 
