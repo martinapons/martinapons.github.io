@@ -13,8 +13,6 @@ Hey there! I’m a fifth-year Ph.D. Candidate in Economics at the <a href="https
 
 ## Working Papers
 
-
-
 ### Quantile on Quantiles <small>[Job Market Paper]</small> 
 <small>[ <a href="#/" onclick="visib('qq')">Abstract</a> | <a href="/files/QQmodel.pdf" download>Download</a>]</small>
 (_Winner of International Association for Applied Econometrics 2024 conference best student paper prize_)
@@ -52,4 +50,18 @@ Inadequate diets harm individual health, generate substantial healthcare costs, 
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
 
