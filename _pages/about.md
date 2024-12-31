@@ -15,25 +15,20 @@ Hey there! I’m a fifth-year Ph.D. Candidate in Economics at the <a href="https
 
 ### Quantile on Quantiles <small>[Job Market Paper]</small> <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small>
 (_Winner of International Association for Applied Econometrics 2024 conference best student paper prize_)
-<div id="qq" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+
 Distributional effects provide interesting insight into how a given treatment impacts inequality. This paper extends this notion in two ways. First, it recognizes that inequality spans multiple dimensions, for example, within and between groups, with treatments potentially influencing and creating trade-offs between both. Second, the paper addresses the nontrivial challenge of ranking heterogeneous groups, which heavily depends on the social welfare function of the policymaker. 
 To this end, I introduce a model to simultaneously study distributional effects within and between groups while remaining agnostic about this social welfare function. The model consists of a quantile function with two indices, the first capturing heterogeneity within groups and the second addressing the between-group dimension. 
 I propose a two-step quantile regression estimator involving within-group regressions in the first stage and between-group regressions in the second stage. 
 I show that the estimator is consistent and asymptotically normal when the number of observations per group and the number of groups diverge to infinity. In an empirical application, I study the effect of training on the distribution of firms' performance within and between markets in Kenya. The results show large positive effects among the successful firms in the best-performing markets, suggesting potential complementarities between firms and market performance.
 </small><br><br/>
-</div>
 
 
 
-
-
-<div style="margin-bottom: 5px;">
-### Minimum Distance Estimation of Quantile Panel Data Models ¨
-</div>
-<div style="margin-bottom: 5px;">
+### Minimum Distance Estimation of Quantile Panel Data Models
+<div style="margin-bottom: 5px">
 <small>with <a href="https://sites.google.com/site/blaisemelly/">Blaise Melly</a></small>
 </div>  
-<div style="margin-bottom: 5px;">
+<div style="margin-bottom: 5px">
   <small>
     [<a href="#/" onclick="visib('md')">Abstract</a>] 
     [<a href="/files/MD.pdf" download>Download</a>]
