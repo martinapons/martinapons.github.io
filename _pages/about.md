@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a researcher at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> at the **University of Bern**, where I completed my PhD in May 2025. In September 2025, I will join the economics department at the **University of Zurich** as an Assistant Professor. <a href="https://martinapons.github.io/files/CV_Martina_Pons.pdf" download>You can download my CV here</a>.
+Hey there! I’m an assistant professor in Econometrics at the Department of Economics at the University of Zurich. I obtained my PhD from the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> at the **University of Bern**. <a href="https://martinapons.github.io/files/CV_Martina_Pons.pdf" download>You can download my CV here</a>.
 
 
 ## Working Papers
