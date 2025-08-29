@@ -57,7 +57,7 @@ Inadequate diets harm individual health, generate substantial healthcare costs, 
 </div>
 
 <iframe src="../files/income_3d.html" width="100%" height="600px" frameborder="0"></iframe>
-**Footnote:** The Figure shows the effect of the business training on the within market and the between market distributions of income from work estimated using the method suggested in the paper _Quantiles on Quantile_ (see paper for details).
+**Footnote:** The Figure shows the effect of the business training on the within market and the between market distributions of income from work estimated using the method suggested in the paper _Quantile on Quantiles_ (see paper for details).
 
 ## Publications
 <ul>{% for post in site.publications %}
