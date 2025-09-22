@@ -46,7 +46,7 @@ We propose a minimum distance estimation approach for quantile panel data models
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits 
 <div style="margin-bottom: 3px">
-  <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> (Revise & Resubmit at <em>The Review of Economics and Statistics</em>)</small>
+  <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> (Revised & Resubmitted at <em>The Review of Economics and Statistics</em>)</small>
 </div>
 <div style="margin-bottom: 3px">
 <small>[<a href="#/" onclick="visib('diet')">Abstract</a>] [<a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a>]</small>
