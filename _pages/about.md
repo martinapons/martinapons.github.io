@@ -13,7 +13,7 @@ Hey there! I’m an Assistant Professor in Econometrics at the <a href="https://
 
 ## Working Papers
 
-### Quantile on Quantiles <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small>  [<a href="https://github.com/martinapons/qqreg">R Package</a>] 
+### Quantile on Quantiles <small>[<a href="/files/QQmodel.pdf" download>Download</a>]</small>  [<a href="https://github.com/martinapons/qqreg">R Package</a>]</small>
 
 <div style="margin-bottom: 3px" ><small>
 (<em>Winner of International Association for Applied Econometrics 2024 conference best student paper prize</em>)
