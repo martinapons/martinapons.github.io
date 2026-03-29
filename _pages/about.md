@@ -43,12 +43,9 @@ We propose a minimum distance estimation approach for quantile panel data models
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits 
 <div style="margin-bottom: 3px">
-  <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> (Conditionally accepted at <em>The Review of Economics and Statistics</em>)</small>
-</div>
-<div style="margin-bottom: 3px">
-<small>[<a href="#/" onclick="visib('diet')">Abstract</a>] [<a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a>]</small>
-</div>
-<div id="diet" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+  <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> <small> Conditionally Accepted at <i>The Review of Economics and Statistics</i>, [ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Paper</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet_OnlineAppendix.pdf" download>Online Appendix</a> ] </small> 
+<div style="height: auto; width: auto; text-align: justify; line-height: 1.2" ><small>
+  
 Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. We document a strong intergenerational persistence of diet that exceeds income transmission across all measures we consider. At the same time, substantial heterogeneities in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss potential mechanisms and show in a counterfactual analysis that only 10% of the intergenerational persistence in diet can be explained by the transmission of income and education. In line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
 </small><br><br/>
 </div>
