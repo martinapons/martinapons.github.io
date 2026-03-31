@@ -13,16 +13,23 @@ Hey there! I’m an Assistant Professor in Econometrics at the <a href="https://
 
 ## Working Papers
 
-### Quantile on Quantiles <small>[<a href="/files/QQmodel.pdf" download>Download</a>] [<a href="https://github.com/martinapons/qqreg">R Package</a>]</small>
-
-<div style="margin-bottom: 3px" ><small>
+### Quantile on Quantiles
+<div style="margin-bottom: 3px"><small>
 (<em>Winner of International Association for Applied Econometrics 2024 conference best student paper prize</em>)
 </small></div>
-
-<div style="height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+<div style="margin-bottom: 3px">
+  <small>
+    [<a href="#/" onclick="visib('qq')">Abstract</a>]
+    [<a href="/files/QQmodel.pdf" download>Download</a>]
+    [<a href="https://github.com/martinapons/qqreg">R Package</a>]
+  </small>
+</div>
+<div id="qq" style="display: none; height: auto; width: auto; text-align: justify; line-height: 1.2"><small>
 I develop an econometric framework to analyze the impact of a treatment on inequality within and between groups. Outcomes are represented by a two-dimensional quantile surface mapping within-group and between-group ranks to outcome levels. This representation captures the distributional structure of the data without imposing normative assumptions, providing a foundation for assessing trade-offs between different dimensions of inequality. Within a broad class of linear welfare functions, the two-dimensional quantile surface is the empirical primitive for welfare evaluation. I propose a two-step quantile regression estimator and establish its weak convergence to a bivariate Gaussian process. An application to business training in Kenya shows that treatment effects are concentrated among high-performing firms in strong markets, highlighting complementarities between individual and group performance.
 </small></div>
 
+<iframe src="../files/income_3d.html" width="100%" height="600px" frameborder="0"></iframe>
+**Footnote:** The Figure shows the effect of the business training on the within market and the between market distributions of income from work estimated using the method suggested in the paper _Quantile on Quantiles_ (see paper for details).
 
 ### Minimum Distance Estimation of Quantile Panel Data Models
 <div style="margin-bottom: 3px">
@@ -41,19 +48,25 @@ We propose a minimum distance estimation approach for quantile panel data models
 </small>
 </div>
 
-### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits 
+## Publications and Accepted Papers
+
+### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits
 <div style="margin-bottom: 3px">
-  <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a> <small> Conditionally Accepted at <i>The Review of Economics and Statistics</i>, [ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Paper</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet_OnlineAppendix.pdf" download>Online Appendix</a> ] </small> 
-<div style="height: auto; width: auto; text-align: justify; line-height: 1.2" ><small>
-  
-Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. We document a strong intergenerational persistence of diet that exceeds income transmission across all measures we consider. At the same time, substantial heterogeneities in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss potential mechanisms and show in a counterfactual analysis that only 10% of the intergenerational persistence in diet can be explained by the transmission of income and education. In line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
-</small><br><br/>
+  <small>with <a href="https://frederickluser.github.io/">Frederic Kluser</a></small>
 </div>
-
-<iframe src="../files/income_3d.html" width="100%" height="600px" frameborder="0"></iframe>
-**Footnote:** The Figure shows the effect of the business training on the within market and the between market distributions of income from work estimated using the method suggested in the paper _Quantile on Quantiles_ (see paper for details).
-
-## Publications
+<div style="margin-bottom: 3px">
+  <small>Accepted at <i>The Review of Economics and Statistics</i></small>
+</div>
+<div style="margin-bottom: 3px">
+  <small>
+    [<a href="#/" onclick="visib('apple')">Abstract</a>]
+    [<a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Paper</a>]
+    [<a href="https://frederickluser.github.io/files/Intergenerational_Diet_OnlineAppendix.pdf" download>Online Appendix</a>]
+  </small>
+</div>
+<div id="apple" style="display: none; height: auto; width: auto; text-align: justify; line-height: 1.2"><small>
+Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. We document a strong intergenerational persistence of diet that exceeds income transmission across all measures we consider. At the same time, substantial heterogeneities in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss potential mechanisms and show in a counterfactual analysis that only 10% of the intergenerational persistence in diet can be explained by the transmission of income and education. In line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
+</small></div>
 <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

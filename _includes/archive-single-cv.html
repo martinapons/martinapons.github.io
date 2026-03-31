@@ -36,7 +36,18 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>{% endif %}
+    {% if post.excerpt %}
+    <div style="margin-bottom: 3px">
+      <small>
+        [<a href="#/" onclick="visib('{{ post.slug }}')">Abstract</a>]
+        {% if post.paperurl %}[<a href="{{ post.paperurl }}">Paper</a>]{% endif %}
+      </small>
+    </div>
+    <div id="{{ post.slug }}" style="display: none; height: auto; width: auto; text-align: justify; line-height: 1.2"><small>
+    {{ post.excerpt }}
+    </small></div>
+    {% endif %}
     </li>
  </article>
 </div>
